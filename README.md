@@ -1,0 +1,2 @@
+# react-fetch-cors-preflight
+ 
